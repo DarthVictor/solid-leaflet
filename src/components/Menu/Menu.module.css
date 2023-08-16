@@ -1,0 +1,14 @@
+.menu a {
+    display: block;
+    padding: 15px 40px;
+    max-width: 320px;
+    background-color: #fcfcfc;
+    border: 1px solid #eee;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover {
+        color: #888;
+    }
+}
